@@ -1,0 +1,31 @@
+SIC LA
+
+A = codex Dembinus saec. iv uel v in Bibliotheca Vaticana
+Α1 = Bembini a prima manu correctio
+A² = Bembini correctio recens
+
+B = codex Basilicanus saec. x in Basilica Vaticana
+
+ς’ = codex Vaticanus saec. ix uel x in Bibliotheca Vaticana
+l) = codex Victorianus saec. ix uel x in Bibliotheca Vaticana
+E = codex Riccardianus saec. xi nunc in Bibliotheca Ric-
+
+cardizma, olim S. Marci Florentina
+
+lr' = codex Ambrosianus saec. x in Bibliotheca Mediolanensi
+
+G = codex Decurtatus saec. xi uel xii in Bibliotheca Vaticana
+
+P = codex Parisinus saec. ix uel x in Bibliotheca Parisiensi
+Imperiali
+
+V = Fragmentum Vindobonense saec. x uel xi Vindobonae
+
+codd. = consensus omnium codd.
+Σ = consensus codicum praeter Bembinum
+Vbi in notulis textui subiectis meram discrepantiam Bem-
+bini sub littera A designaui, hoc uolui significare, A a prima
+manu hanc lectionem exhibere. Vtrum Bembinus correctus
+(ΑΙ, ΑΞ) an Σ an Αι sive Α2 cum Σ congruens lectionem
+acceptam praebeant, referre supersedi.
+
